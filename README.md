@@ -1,1 +1,6 @@
-# SAMPLE-AI-JSON-DATA
+{
+	MedName: "Motrin",
+	MedId: "mot241985u",
+ 	MedDosage: "200mg",
+  MedSchedule: "Mon,Wed,Fri",
+}
